@@ -17,7 +17,7 @@ Install NumPy (if not already installed):
 pip install numpy
 
 Clone this repository:
-git clone https://github.com/yourusername/Q_learning.git
+git clone https://github.com/Doomsday110/Q_learning.git
 
 Run the training script:
 python Q_Learning_G21018083.py
